@@ -37,7 +37,8 @@ h1 {
 .attribution {
   font-size: 14px;
   text-align: center;
-  font-weight: var(--fw-600);
+  font-weight: var(--fw-400);
+  margin-top: 1rem;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
